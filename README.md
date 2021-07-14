@@ -6,3 +6,10 @@ Here, provides basic introduction to Natural language processing which includes 
 * Tokenizing
 * Lemmatization
 * Stemming
+
+# Libraries
+
+The basic NLP libraries utilized here:
+* nltk
+* keras
+* spacy
